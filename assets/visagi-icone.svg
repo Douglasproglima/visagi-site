@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="titulo-icone">
+  <title id="titulo-icone">Visagi</title>
+  <rect width="512" height="512" rx="96" fill="#0B0D10"/>
+  <!-- Tres tracos convergentes: perfil esquerdo, frente, perfil direito -->
+  <path d="M 160 150 L 246 385" stroke="#9AA4B2" stroke-width="44" stroke-linecap="square"/>
+  <path d="M 256 118 L 256 385" stroke="#D97706" stroke-width="18" stroke-linecap="square"/>
+  <path d="M 352 150 L 266 385" stroke="#F8FAFC" stroke-width="44" stroke-linecap="square"/>
+</svg>

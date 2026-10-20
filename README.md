@@ -1,17 +1,30 @@
 <div align="center">
+  <img src="assets/visagi-icone.svg" width="96" height="96" alt="Visagi" />
 
-# Visagi · Site
+  <h1>Visagi · Site</h1>
 
-**Seu estilo, calculado.**
+  <p><strong>Seu estilo, calculado.</strong></p>
+
+  <p>
+    <a href="https://douglasproglima.github.io/visagi-site/">
+      <img src="https://img.shields.io/badge/PT--BR-ACESSAR_SITE-D97706?style=for-the-badge" alt="Acessar o site em português" />
+    </a>
+    &nbsp;
+    <a href="https://douglasproglima.github.io/visagi-site/en/">
+      <img src="https://img.shields.io/badge/EN-VISIT_SITE-B45309?style=for-the-badge" alt="Visit the site in English" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/github/deployments/Douglasproglima/visagi-site/github-pages?label=github%20pages&style=flat-square&color=10B981" alt="Status do GitHub Pages" />
+    <img src="https://img.shields.io/badge/Licença-privada-161B22?style=flat-square" alt="Licença privada" />
+    <img src="https://img.shields.io/badge/stack-HTML%20%2B%20CSS-9AA4B2?style=flat-square" alt="Stack: HTML + CSS" />
+  </p>
+</div>
+
+<br>
 
 Site estático de marketing do [Visagi](https://github.com/Douglasproglima/visagi), em português e inglês.
-
-[![Site](https://img.shields.io/badge/site-douglasproglima.github.io%2Fvisagi--site-D97706?logo=googlechrome&logoColor=white)](https://douglasproglima.github.io/visagi-site/)
-[![Licença](https://img.shields.io/badge/Licença-privada-161B22)](#)
-
-**🔗 [douglasproglima.github.io/visagi-site](https://douglasproglima.github.io/visagi-site/)**
-
-</div>
 
 ---
 
